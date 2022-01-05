@@ -2,7 +2,7 @@
 - 👀 I started coding at age 24
 - 🌱 I graduate in bachelor degree of accounting
 - 💞️ I’m looking for collaboration on small projects to strengthen my basic skills on Python
-- 📫 Email: amirahnasihah97@gmail.com
+- 📫 Email: nasihahnazili@gmail.com
 - 📚 Books resources: [pdfdrive.com](https://www.pdfdrive.com/)
 
 <!---
