@@ -3,6 +3,7 @@
 - 🌱 I graduate in bachelor degree of accounting
 - 💞️ I’m looking for collaboration on small projects to strengthen my basic skills on Python
 - 📫 Email: amirahnasihah97@gmail.com
+- 📚 Books resources: [pdfdrive.com](https://www.pdfdrive.com/)
 
 <!---
 amirahnazili/amirahnazili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
