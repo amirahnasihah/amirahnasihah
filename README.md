@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirahnazili
+- 👋 Hi, I’m @amirahnasihah
 - 👀 I started coding at age 24
 - 🌱 I graduate in bachelor degree of accounting
 - 💞️ I’m looking for collaboration on small projects to strengthen my basic skills on Python
