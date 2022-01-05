@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirahnazili
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on small projects to strentheng my basic skills on Python
+- 👀 I started coding at age 24
+- 🌱 I graduate in bachelor degree of accounting
+- 💞️ I’m looking for collaboration on small projects to strengthen my basic skills on Python
 - 📫 Email: amirahnasihah97@gmail.com
 
 <!---
