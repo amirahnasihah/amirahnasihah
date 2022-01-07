@@ -32,9 +32,8 @@
 
 **📈 my github stats**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amirahnasihah&show_icons=true&theme=highcontrast" alt="amirahnasihah" /> 
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=amirahnasihah&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" /> 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahnasihah&layout=compact)](https://github.com/amirahnasihah/github-readme-stats)" />
+| <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amirahnasihah&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amirah Nasihah's github stats" /></a> | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahnasihah&layout=compact&theme=highcontrast" /></a> |
+| ------------- | ------------- |
 
 **☂ payung me**
 
@@ -50,6 +49,4 @@ Contributions are welcome! Thanks! ❤
 <!---
 amirahnazili/amirahnazili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirahnasihah&repo=github-readme-stats&cache_seconds=86400&theme=monokai" />
 --->
