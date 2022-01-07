@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirahnasihah
 - 👀 I started coding at age 24
-- 🌱 I graduated in Bachelor of Accountancy (Hons.)
+- 🌱 Let's connecting together!
 - 💞️ I’m looking for collaboration on small projects to strengthen my basic skills on Python
 - 📫 Email: amirahnasihah97@gmail.com
 - 📚 Open books resources: [pdfdrive.com](https://www.pdfdrive.com/)
