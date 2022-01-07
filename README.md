@@ -44,7 +44,7 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 
 ---
   
-Contributions are welcome! Thanks! ❤
+Contributions are welcome! Thanks ❤
 
   
 <!---
