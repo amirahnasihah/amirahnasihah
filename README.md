@@ -14,6 +14,7 @@
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
+![views](https://views-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=red&right_color=red)
 
 
 
