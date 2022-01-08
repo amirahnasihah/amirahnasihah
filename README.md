@@ -13,7 +13,7 @@
   <img align="left" alt="Amirah Nasihah's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
 
 
 
