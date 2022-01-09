@@ -27,7 +27,7 @@
 - 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
 - 📜 CV: [My Resume - Contact Redacted](https://github.com/amirahnasihah/amirahnasihah/files/7830495/Resume-Nor-Amirah-Nasihah-Binti-Nazili.-.Redacted.Pic.pdf)
 
-
+<br>
 
 **🧰 languages and tools**
 
