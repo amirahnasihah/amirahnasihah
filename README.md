@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/amirahnasihah/">
   <img align="left" alt="Amirah Nasihah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/haizum0323">
+<a href="https://twitter.com/amrhnshh">
   <img align="left" alt="Amirah Nasihah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g">
