@@ -45,7 +45,7 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 - consider buying me a ~~coffee~~ tea ☕ via [![paypal.me/amirahnazili](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/amirahnazili)
 - starring and sharing the project
 
----
+<hr>
   
 Contributions are welcome! Thanks ❤
 
