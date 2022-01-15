@@ -15,11 +15,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
 
-<!--
-![views](https://views-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=red&right_color=red)
--->
-
-
 - 👋 hi, i’m @amirahnasihah 
 - 👀 i started coding at age 24
 - 💞️ i’m looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python
@@ -38,7 +33,6 @@
 
 | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amirahnasihah&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amirah Nasihah's github stats" /></a> | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahnasihah&layout=compact&theme=highcontrast" /></a> |
 | ------------- | ------------- |
-[![](https://raw.githubusercontent.com/amirahnasihah/amirahnasihah/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 **☂ payung me**
 
