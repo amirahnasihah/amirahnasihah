@@ -16,7 +16,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
 
 - 👋 hi, i’m @amirahnasihah.
-- 👀 i started coding at age 24, a little woman from Malaysia seeking for employment.
+- 👀 i started coding at age 24 and a little woman from Malaysia seeking for employment.
 - 💞️ i’m looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python
 - 📫 email: amirahnasihah97@gmail.com 
 - 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
