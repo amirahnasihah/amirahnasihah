@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%23F7CE76&size=40&multiline=true&width=800&height=50&lines=hello+from+amirahnasihah's+github+%F0%9F%A7%95%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-#### apa khabar? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### apa khabar? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/amirahnasihah/">
   <img align="left" alt="Amirah Nasihah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
