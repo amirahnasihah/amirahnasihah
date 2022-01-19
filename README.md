@@ -1,4 +1,6 @@
-# apa khabar? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%23F7CE76&size=40&multiline=true&width=800&height=50&lines=hello+from+amirahnasihah's+github+%F0%9F%A7%95%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+### apa khabar? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/amirahnasihah/">
   <img align="left" alt="Amirah Nasihah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -12,6 +14,11 @@
 <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g">
   <img align="left" alt="Amirah Nasihah's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+<!-- 
+<a href="https://amirahnasihah.hashnode.dev/">
+  <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://drive.google.com/file/d/1KQWTAbDd_LKV5a-Aep3h51EvoWyHHg0_/view?usp=sharing" />
+</a>
+-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
 
@@ -26,8 +33,8 @@
 
 **🧰 languages and tools**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 **📈 my github stats**
 
