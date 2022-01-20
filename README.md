@@ -14,27 +14,29 @@
 <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g">
   <img align="left" alt="Amirah Nasihah's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<!-- 
 <a href="https://amirahnasihah.hashnode.dev/">
-  <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://drive.google.com/file/d/1KQWTAbDd_LKV5a-Aep3h51EvoWyHHg0_/view?usp=sharing" />
+  <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" />
 </a>
--->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
+
+
+
+<br>
 
 - 👋 hi, i’m @amirahnasihah.
 - 👀 i started coding at age 24 and a little woman from Malaysia seeking for employment.
 - 💞️ i’m looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python
 - 📫 email: amirahnasihah97@gmail.com 
 - 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
-- 📜 CV: [My Resume - Contact Redacted](https://github.com/amirahnasihah/amirahnasihah/files/7830495/Resume-Nor-Amirah-Nasihah-Binti-Nazili.-.Redacted.Pic.pdf)
+- 📜 CV: [Resume - Contact Redacted](https://github.com/amirahnasihah/amirahnasihah/files/7830495/Resume-Nor-Amirah-Nasihah-Binti-Nazili.-.Redacted.Pic.pdf)
 
 <br>
 
-**🧰 languages and tools**
+**💻 languages and tools**
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
 **📈 my github stats**
 
@@ -47,8 +49,11 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 - consider buying me a ~~coffee~~ tea ☕ via [![paypal.me/amirahnazili](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/amirahnazili)
 - starring and sharing the project
 
-<hr>
-  
+
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
+
+<hr>  
 Contributions are welcome! Thanks ❤
 
   
