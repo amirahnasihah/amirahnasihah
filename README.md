@@ -18,7 +18,7 @@
   <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" />
 </a>
 
-
+![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
 
 
 <br>
@@ -48,10 +48,6 @@
 if you like what i do or just want to encourage me to learn more, maybe you can either: 
 - consider buying me a ~~coffee~~ tea ☕ via [![paypal.me/amirahnazili](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/amirahnazili)
 - starring and sharing the project
-
-
-<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
 
 <hr>  
 Contributions are welcome! Thanks ❤
