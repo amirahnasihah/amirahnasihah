@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=%23F7CE76&size=40&multiline=true&width=800&height=50&lines=hello+from+amirahnasihah's+github+%F0%9F%A7%95%F0%9F%8F%BB"></a>
 </p>
 
@@ -24,8 +24,10 @@
 <a href="https://amirahnasihah.hashnode.dev/">
   <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" />
 </a>
+</p>  
+  
 ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
-</p>
+
 
 <br>
 
