@@ -1,4 +1,3 @@
-
 <h2 align="center">
   apa khabar?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -33,7 +32,7 @@
 
 During my time as a student, I doing a lot of tasks that involved with accounting software and related tools. Then, I realised that technology and software has pumped me to explore more which make my favorite for coding in Python.
 
-- 👋 hi, i’m @amirahnasihah.
+- 👋 hi, i’m @amirahnasihah, friends call me @seha.
 - 👀 i started coding at age 24 and a little woman from Malaysia seeking for employment.
 - 💞️ i’m also looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python.
 - 📫 email: amirahnasihah97@gmail.com 
