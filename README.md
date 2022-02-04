@@ -37,8 +37,8 @@ During my time as a student, I doing a lot of tasks that involved with accountin
 - 💞️ i’m also looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python.
 - 📫 email: amirahnasihah97@gmail.com 
 - 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
-- 📜 resume: [Hire Me](https://github.com/amirahnasihah/amirahnasihah/files/7966711/NOR.s.Resume.3.pdf
-)
+- 📜 resume: [Hire Me!](https://github.com/amirahnasihah/amirahnasihah/files/8001772/NOR.AMIRAH.NASIHAH-Resume-PicCon.pdf)
+
 
 <br>
 
