@@ -25,16 +25,16 @@
 </a>
 </p>  
   
-![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
+<!-- ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow) -->
 
 
 <br>
 
-During my time as a student, I doing a lot of tasks that involved with accounting software and related tools. Then, I realised that technology and software has pumped me to explore more which make my favorite for coding in Python.
+During my time as a student at Universiti Teknologi MARA, I doing a lot of tasks that involved with accounting software and related tools. Then, I realised that technology and software has pumped me to explore more which make my favorite language for coding is Python.
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
 - 👀 i started coding at age 24 and a little woman from Malaysia seeking for employment.
-- 💞️ i’m also looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python.
+- 💞️ i also looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python.
 - 📫 email: amirahnasihah97@gmail.com 
 - 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
 - 📜 resume: [Hire Me!](https://github.com/amirahnasihah/amirahnasihah/files/8001772/NOR.AMIRAH.NASIHAH-Resume-PicCon.pdf)
