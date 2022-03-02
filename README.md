@@ -9,7 +9,10 @@
 
 <p>
 <a href="https://www.linkedin.com/in/amirahnasihah/">
-  <img align="left" alt="Amirah Nasihah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Amirah Nasihah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://alabaster-ceiling-978.notion.site/3661c1aac56e4b4396aa4f33793f731e?v=e00e5c9c06664f22906c8b06f05018fc">
+   <img align="left" alt="Amirah Nasihah's Notion" width="22px" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" ?>
 </a>
 <a href="https://twitter.com/amrhnshh">
   <img align="left" alt="Amirah Nasihah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
