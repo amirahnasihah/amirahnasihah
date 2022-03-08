@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/amirahnasihah/">
   <img align="left" alt="Amirah Nasihah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://nasihahresume.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c">
+<a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c">
    <img align="left" alt="Amirah Nasihah's Notion" width="22px" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" ?>
 </a>
 <a href="https://twitter.com/amrhnshh">
@@ -40,7 +40,7 @@ During my time as a student at Universiti Teknologi MARA, I doing a lot of tasks
 - 💞️ i also looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python.
 - 📫 email: amirahnasihah97@gmail.com 
 - 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
-- 📜 resume: <a href="https://nasihahresume.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c">READ ME!</a>
+- 📜 resume: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">READ ME!</a>
 
 
 <br>
