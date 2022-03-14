@@ -33,7 +33,7 @@
 
 <br>
 <br>
-During my time as a student at Universiti Teknologi MARA, I doing a lot of tasks that involved with accounting software and related tools. Then, I realised that technology and software has pumped me to explore more which make my favorite language for coding is Python.
+During my time as a student at Universiti Teknologi MARA, I doing a lot of tasks that involved with accounting software and related tools. Then, I realised that technology and software has pumped me to explore more in tech.
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
 - 👀 i started coding at age 24 and a little woman from Malaysia seeking for employment.
