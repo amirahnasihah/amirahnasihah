@@ -18,7 +18,7 @@
   <img align="left" alt="Amirah Nasihah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Amirah Nasihah's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Amirah Nasihah's Spotify" width="22px" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g">
   <img align="left" alt="Amirah Nasihah's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
