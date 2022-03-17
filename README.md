@@ -26,6 +26,9 @@
 <a href="https://amirahnasihah.hashnode.dev/">
   <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" />
 </a>
+<a href="https://codepen.io/amirahnasihah">
+  <img align="left" alt="Amirah Nasihah's Codepen" width="22px" src="https://cdn-icons-png.flaticon.com/128/1626/1626319.png" />
+</a>
 </p>  
   
 <!-- ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow) -->
