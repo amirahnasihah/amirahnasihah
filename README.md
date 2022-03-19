@@ -33,14 +33,13 @@
   
 <!-- ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow) -->
 
+<br><br>
 
-<br>
-<br>
-During my time as a student at Universiti Teknologi MARA, I doing a lot of tasks that involved with accounting software and related tools. Then, I realised that technology and software has pumped me to explore more in tech.
+> shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
-- 👀 i started coding at age 24 and a little woman from Malaysia seeking for employment.
-- 💞️ i also looking for a small collaboration on project or any freelance work to rocket my basic skills especially on Python.
+- 👀 i started coding at age 24 and a little woman from Malaysia seeking employment.
+- 💞️ i also looking for a small collaboration on projects or any freelance work to rocket my basic skills in coding.
 - 📫 email: amirahnasihah97@gmail.com 
 - 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
 - 📜 resume: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">READ ME!</a>
