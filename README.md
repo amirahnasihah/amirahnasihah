@@ -41,7 +41,7 @@
 - 👀 i started coding at age 24 and a little woman from Malaysia seeking employment.
 - 💞️ i also looking for a small collaboration on projects or any freelance work to rocket my basic skills in coding.
 - 📫 email: amirahnasihah97@gmail.com 
-- 📚 open resources: [pdfdrive.com](https://www.pdfdrive.com/) - books heaven
+- 📚 book libraries: [pdfdrive.com](https://www.pdfdrive.com/)
 - 📜 resume: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">READ ME!</a>
 
 
