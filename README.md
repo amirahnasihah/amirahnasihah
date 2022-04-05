@@ -14,6 +14,9 @@
 <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c">
    <img align="left" alt="Amirah Nasihah's Notion" width="22px" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" ?>
 </a>
+<a href="https://codepen.io/amirahnasihah">
+  <img align="left" alt="Amirah Nasihah's Codepen" width="22px" src="https://cdn-icons-png.flaticon.com/128/1626/1626319.png" />
+</a>
 <a href="https://twitter.com/amrhnshh">
   <img align="left" alt="Amirah Nasihah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -26,10 +29,7 @@
 <a href="https://amirahnasihah.hashnode.dev/">
   <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" />
 </a>
-<a href="https://codepen.io/amirahnasihah">
-  <img align="left" alt="Amirah Nasihah's Codepen" width="22px" src="https://cdn-icons-png.flaticon.com/128/1626/1626319.png" />
-</a>
-</p>  
+</p> 
   
 <!-- ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow) -->
 
@@ -38,8 +38,8 @@
 > shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
-- 👀 i started coding at age 24 and a little woman from Malaysia seeking employment.
-- 💞️ i also looking for a small collaboration on projects or any freelance work to rocket my basic skills in coding.
+- 👀 start coding at age 24 - a little woman from Malaysia.
+- 💞️ looking for a small collaboration on projects or any freelance work to rocket my basic skills in coding.
 - 📫 email: amirahnasihah97@gmail.com 
 - 📚 book libraries: [pdfdrive.com](https://www.pdfdrive.com/)
 - 📜 resume: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">READ ME!</a>
