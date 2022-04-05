@@ -17,9 +17,9 @@
 
 </p><br>
 
-<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a>
+<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a><br>
 
-> shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
+> shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
 - 👀 start coding at age 24 - a little woman from Malaysia.
@@ -49,7 +49,7 @@
 | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amirahnasihah&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amirah Nasihah's github stats" /></a> | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahnasihah&layout=compact&theme=highcontrast" /></a> |
 | ------------- | ------------- |
 
-<b>Note:</b> Most used languages is only a metric of the languages of my public code, it does not reflect experience or skill level.
+<b>Note:</b> Most used languages is only a metric of the languages of my public code in exploring it, and not reflecting to experience or skill level.
 
 <p align="center">
     <a href="https://github.com/amirahnasihah"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amirah Nasihah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amirahnasihah&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/></a>
