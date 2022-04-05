@@ -26,7 +26,7 @@
 - 💞️ looking for a small collaboration on projects or any freelance work to rocket my basic skills in coding.
 - 📫 email: amirahnasihah97@gmail.com 
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
-- 📜 resume: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">READ ME!</a>
+- 📜 resume: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">look here?</a>
 
 
 ### 💻 languages and tools
@@ -49,11 +49,21 @@
 | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amirahnasihah&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Amirah Nasihah's github stats" /></a> | <a href="https://github.com/amirahnasihah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahnasihah&layout=compact&theme=highcontrast" /></a> |
 | ------------- | ------------- |
 
+<b>Note:</b> Most used languages is only a metric of the languages of my public code, it does not reflect experience or skill level.
+
+<p align="center">
+    <a href="https://github.com/amirahnasihah"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amirah Nasihah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amirahnasihah&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+</p><br/>
+
+<a href="https://github.com/amirahnasihah/github-readme-activity-graph"><img alt="Amirah Nasihah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirahnasihah&theme=xcode"/></a>
+
+
 ### ☂ payung me
 
 if you like what i do or just want to encourage me to learn more, maybe you can either: 
 - consider buying me a ~~coffee~~ tea ☕ via [![paypal.me/amirahnazili](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/amirahnazili)
 - starring and sharing the project
+- connect with me
 
 <hr>
 Contributions are welcome! Thanks ❤
