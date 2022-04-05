@@ -17,11 +17,9 @@
 
 </p><br>
 
-
+<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a>
 
 > shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
-
-<p><a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a></p>
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
 - 👀 start coding at age 24 - a little woman from Malaysia.
@@ -30,8 +28,6 @@
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
 - 📜 resume: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">READ ME!</a>
 
-
-<br>
 
 ### 💻 languages and tools
 
