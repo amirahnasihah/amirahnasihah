@@ -17,7 +17,7 @@
 
 </p><br>
 
-<a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="300" alt="Amirah Nasihah's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="250" alt="Amirah Nasihah's Dev Card" align="right"/></a>
 
 > shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs
 
