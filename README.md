@@ -20,12 +20,6 @@
 <a href="https://twitter.com/amrhnshh">
   <img align="left" alt="Amirah Nasihah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Amirah Nasihah's Spotify" width="22px" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g">
-  <img align="left" alt="Amirah Nasihah's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
 <a href="https://amirahnasihah.hashnode.dev/">
   <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" />
 </a>
@@ -33,7 +27,7 @@
   
 <!-- ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow) -->
 
-<br><br>
+<br>
 
 <a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="300" alt="Amirah Nasihah's Dev Card"/></a>
 
@@ -74,6 +68,15 @@
 if you like what i do or just want to encourage me to learn more, maybe you can either: 
 - consider buying me a ~~coffee~~ tea ☕ via [![paypal.me/amirahnazili](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/amirahnazili)
 - starring and sharing the project
+
+**📱 media**
+
+<a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Amirah Nasihah's Spotify" width="22px" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g">
+  <img align="left" alt="Amirah Nasihah's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a><br>
 
 <hr>  
 Contributions are welcome! Thanks ❤
