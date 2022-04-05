@@ -8,16 +8,18 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amirahnasihah/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="amirahnasihah's LinkedIn" width="22px"/></a>
-  <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c"><img src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt="amirahnasihah's Notion" width="22px"/></a>
-  <a href="https://twitter.com/amrhnshh"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="amrhnshh's Twitter" width="22px"/></a>
-  <a href="https://amirahnasihah.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="amirahnasihah's Hashnode" width="22px"/></a>
-  <a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g"><img src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" alt="Amirah Nasihah's Spotify" width="22px"/></a>
-  <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g"><img src="https://www.svgrepo.com/show/157839/youtube.svg" alt="Amirah Nasihah's Youtube" width="22px"/></a>
+  <a href="https://www.linkedin.com/in/amirahnasihah/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="amirahnasihah's LinkedIn" width="25px"/></a>
+  <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c"><img src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt="amirahnasihah's Notion" width="25px"/></a>
+  <a href="https://twitter.com/amrhnshh"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="amrhnshh's Twitter" width="25px"/></a>
+  <a href="https://amirahnasihah.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="amirahnasihah's Hashnode" width="25px"/></a>
+  <a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g"><img src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" alt="Amirah Nasihah's Spotify" width="25px"/></a>
+  <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g"><img src="https://www.svgrepo.com/show/157839/youtube.svg" alt="Amirah Nasihah's Youtube" width="25px"/></a>
 
 </p><br>
 
-<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a>
+<p>
+  <a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a>
+</p>
 
 > shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
 
