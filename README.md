@@ -35,6 +35,8 @@
 
 <br><br>
 
+<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="300" alt="Amirah Nasihah's Dev Card"/></a>
+
 > shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
