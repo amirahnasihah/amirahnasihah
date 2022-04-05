@@ -58,6 +58,7 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt='google'></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt='html'></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt='css'></code>
+<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt='javascript'></code>
 <code><img height="26" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='notion'></code>
 <code><img height="26" src="https://img.icons8.com/color/2x/powershell.png" alt='powershell'></code>
 
