@@ -23,13 +23,13 @@
 <a href="https://amirahnasihah.hashnode.dev/">
   <img align="left" alt="Amirah Nasihah's Hashnode" width="22px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" />
 </a>
-</p> 
   
+<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a>
+
+</p>
+
+<br><br>
 <!-- ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow) -->
-
-<br>
-
-<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a><br>
 
 > shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
 
