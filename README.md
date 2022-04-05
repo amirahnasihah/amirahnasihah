@@ -17,11 +17,11 @@
 
 </p><br>
 
-<div>
-  <a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a>
-</div>
+
 
 > shops mindlessly; watches weekly anime and listen to classical music mixed with mellow heartbreak songs.
+
+<a href="https://app.daily.dev/amirahnasihah"><img src="https://api.daily.dev/devcards/a89e00bc98b04644b3ee7eab0616d3e1.png?r=3xu" align="right" width="250" alt="Amirah Nasihah's Dev Card"/></a>
 
 - 👋 hi, i’m @amirahnasihah, friends call me seha.
 - 👀 start coding at age 24 - a little woman from Malaysia.
