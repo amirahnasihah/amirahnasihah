@@ -72,4 +72,4 @@ Contributions are welcome! Thanks ❤
 <!---
 amirahnasihah/amirahnasihah is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 --->
-<!-- ![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow) -->
+![follow](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow)
