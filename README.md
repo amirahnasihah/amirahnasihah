@@ -23,6 +23,7 @@
 
 - 👋 hi, i’m @amirahnasihah, some call me seha.
 - 👀 start coding at age 24 - a little woman from Malaysia.
+- 💼 working as a trainee in software engineering.
 - 💞️ looking for a small collaboration on projects or any freelance work to rocket my basic skills in coding.
 - 📫 email: amirahnasihah97@gmail.com 
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
