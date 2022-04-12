@@ -32,15 +32,15 @@
 
 ### 💻 languages and tools
 
+<code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
+<code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/354238/python.svg" alt='python'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349520/sublimetext.svg" alt='sublime text'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349446/markdown.svg" alt='markdown'></code>
 <code><img height="25" src="https://img.icons8.com/fluency/2x/anaconda--v2.png" alt='anaconda'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='vs code'></code> 
 <code><img height="25" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt='colab'></code>
-<code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
-<code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
-<code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
 <code><img height="25" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='notion'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt='powershell'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/353582/codepen-icon.svg" alt='codepen'></code>
