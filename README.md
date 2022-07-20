@@ -23,7 +23,7 @@
 
 - 👋 hi, i’m @amirahnasihah, or amirah. but, some called me sihah.
 - 👀 start coding at age 24 - from Malaysia.
-- 💼 working as a trainee in software engineering.
+- 💼 learning as a trainee in front-end development course.
 - 💞️ looking for a small collaboration on projects to rocket my basic skills in coding. (JavaScript)
 - 📫 email: amirahnasihah97@gmail.com 
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
