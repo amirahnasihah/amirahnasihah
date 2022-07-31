@@ -21,7 +21,7 @@
 
 <a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="230" alt="Amirah Nasihah's Dev Card" align="right"/></a>
 
-- 👋 hi, i’m @amirahnasihah, can call me amirah or sihah.
+- 👋 hi, i’m @amirahnasihah, can call me amirah or seha.
 - 👀 start coding at age 24 - from Malaysia.
 - 💼 currently, learning front-end development course.
 - 💞️ looking for a small collaboration on projects to rocket my basic skills in coding. (JavaScript)
