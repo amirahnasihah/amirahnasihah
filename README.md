@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amirahnasihah/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="amirahnasihah's LinkedIn" width="22px"/></a>
+  <a href="https://www.linkedin.com/in/amirahnasihah/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="amirahnasihah's LinkedIn" width="21px"/></a>
   <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c"><img src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt="amirahnasihah's Notion" width="25px"/></a>
   <a href="https://twitter.com/amrhnshh"><img src="https://www.svgrepo.com/show/183608/twitter.svg" alt="amrhnshh's Twitter" width="22px"/></a>
   <a href="https://amirahnasihah.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="amirahnasihah's Hashnode" width="22px"/></a>
@@ -23,7 +23,7 @@
 
 - 👋 hi, i’m @amirahnasihah, can call me amirah or seha.
 - 👀 start coding at age 24 - from Malaysia.
-- 💼 currently, finance trainee by day, front-end dev student by midnight.
+- 💼 currently, finance trainee by day, web dev student by midnight.
 - 💞️ looking for a small collaboration on projects to rocket my basic skills in coding.
 - 📫 email: amirahnasihah97@gmail.com 
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
