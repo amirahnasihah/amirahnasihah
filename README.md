@@ -22,8 +22,8 @@
 <a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="230" alt="Amirah Nasihah's Dev Card" align="right"/></a>
 
 - 👋 hi, i’m @amirahnasihah, can call me amirah or seha.
-- 👀 start coding at age 24 - from Malaysia.
-- 💼 currently, finance trainee by day, web dev student by midnight.
+- 👀 started coding at age 24 - from Malaysia.
+- 💼 finance trainee by day, web dev student by midnight.
 - 💞️ looking for a small collaboration on projects to rocket my basic skills in coding.
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
 - 📜 contact: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">Notion Site</a>
