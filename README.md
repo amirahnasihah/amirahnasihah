@@ -26,7 +26,6 @@
 - 💼 finance trainee by day, web development student by night.
 - 💞️ looking for a small collaboration on projects to rocket my basic skills in coding.
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
-- 📜 contact: <a href="https://amirahnasihah.notion.site/Resume-f9a45beb799f452983fb678e50f4f24c" target="_blank">Notion Site</a>
 
 
 ### 💻 languages and tools
