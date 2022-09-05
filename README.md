@@ -25,6 +25,7 @@
 - 👀 started coding at age 24 - from Malaysia.
 - 💼 finance trainee by day, web development student by night.
 - 💞️ looking for a small collaboration on projects to rocket my basic skills in coding.
+- 📝 blog: [amirahnasihah.hashnode](https://amirahnasihah.hashnode.dev/)
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
 
 
