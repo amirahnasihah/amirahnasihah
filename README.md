@@ -22,11 +22,11 @@
 <a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="230" alt="Amirah Nasihah's Dev Card" align="right"/></a>
 
 - 👋 hi, i’m @amirahnasihah, can call me amirah or seha.
-- 🇲🇾 a year in tech industry and in coding - from Malaysia.
+- 📌 a year in tech industry and in coding - from Malaysia.
 - 💼 finance trainee by day, web development student by night.
 - 👀 looking for a small collaboration on projects to rocket my basic skills in coding.
 - 📝 blog: [amirahnasihah.hashnode](https://amirahnasihah.hashnode.dev/)
-- 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
+- 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a> | CodeSand
 
 
 ### 💻 languages and tools
