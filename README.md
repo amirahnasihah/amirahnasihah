@@ -34,7 +34,7 @@
 <code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='css'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='javascript'></code>
-<code><img height="25" src="https://www.svgrepo.com/show/354238/python.svg" alt='python'></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='reactjs'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349520/sublimetext.svg" alt='sublime text'></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349446/markdown.svg" alt='markdown'></code>
 <code><img height="25" src="https://img.icons8.com/fluency/2x/anaconda--v2.png" alt='anaconda'></code>
