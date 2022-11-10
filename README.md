@@ -26,7 +26,7 @@
 - 💼 system engineering intern | front-end development student
 - 👀 looking for open source to contribute my basic skills in tech related
 - 📝 blog: [amirahnasihah.hashnode](https://amirahnasihah.hashnode.dev/)
-- 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a> | CodeSand
+- 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
 
 
 ### 💻 languages and tools
