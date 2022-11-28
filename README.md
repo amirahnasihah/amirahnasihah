@@ -8,12 +8,12 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amirahnasihah/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="amirahnasihah's LinkedIn" width="21px"/></a>
-  <a href="http://amirahnasihah.notion.site"><img src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt="amirahnasihah's Notion" width="25px"/></a>
-  <a href="https://twitter.com/amrhnshh"><img src="https://www.svgrepo.com/show/183608/twitter.svg" alt="amrhnshh's Twitter" width="22px"/></a>
+  <a href="https://www.linkedin.com/in/amirahnasihah/"><img src="https://cdn3.iconfinder.com/data/icons/3d-social-media-pack/256/Linkedin.png" alt="amirahnasihah's LinkedIn" width="22px"/></a>
+  <a href="http://amirahnasihah.notion.site"><img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Notion-256.png" alt="amirahnasihah's Notion" width="22px"/></a>
+  <a href="https://twitter.com/amrhnshh"><img src="https://cdn3.iconfinder.com/data/icons/3d-social-media-pack/512/Twitter.png" alt="amrhnshh's Twitter" width="22px"/></a>
   <a href="https://amirahnasihah.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="amirahnasihah's Hashnode" width="22px"/></a>
-  <a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g"><img src="https://www.svgrepo.com/show/355256/spotify.svg" alt="Amirah Nasihah's Spotify" width="22px"/></a>
-  <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g"><img src="https://www.svgrepo.com/show/157839/youtube.svg" alt="Amirah Nasihah's Youtube" width="22px"/></a>
+  <a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn?si=WaLKpwvWTle0btle2qPb6g"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_spotify-256.png" alt="Amirah Nasihah's Spotify" width="22px"/></a>
+  <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g"><img src="https://cdn3.iconfinder.com/data/icons/3d-social-media-pack/256/Youtube.png" alt="Amirah Nasihah's Youtube" width="22px"/></a>
 
 </p><br>
 
