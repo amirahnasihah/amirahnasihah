@@ -65,10 +65,13 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 - starring 🌟 and sharing the project
 - connect with me 🤝🏻
 
+![amrhnshh_illustration_of_study_room_of_computer_desktop_heading_c4fe510e-ccb5-45cb-baa0-0a74f7887cba](https://user-images.githubusercontent.com/89834315/204235140-f7cb0420-f923-4c4c-9201-82acf386bb27.png)
+
 <hr>
 Contributions are welcome! Thanks ❤
 
-  
+P.S: image ai generated ✨
+
 <!---
 amirahnasihah/amirahnasihah is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 --->
