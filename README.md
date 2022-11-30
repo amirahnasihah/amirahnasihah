@@ -70,8 +70,6 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 <hr>
 Contributions are welcome! Thanks ❤
 
-P.S: image ai generated ✨
-
 <!---
 amirahnasihah/amirahnasihah is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 --->
