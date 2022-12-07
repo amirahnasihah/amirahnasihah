@@ -66,7 +66,7 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 - starring 🌟 and sharing the project
 - connect with me 🤝🏻
 
-![amrhnshh_illustration_of_study_room_of_computer_desktop_heading_e0e2a103-6405-45da-a393-f1e234b1b6a6](https://user-images.githubusercontent.com/89834315/204315800-2d810d62-f5de-4b10-bf75-dd73dc1bb2f3.png)
+![amrhnshh_illustration_of_study_room_of_computer_desktop_heading_53b2dda5-6594-4967-b132-f96af755666d](https://user-images.githubusercontent.com/89834315/206182292-dd921e64-a19d-4413-902f-90a10b99791a.png)
 
 <hr>
 Contributions are welcome! Thanks ❤
