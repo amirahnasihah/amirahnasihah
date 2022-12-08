@@ -56,7 +56,7 @@
     <a href="https://github.com/amirahnasihah"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amirah Nasihah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amirahnasihah&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 </p><br/>
 
-<a href="https://github.com/amirahnasihah/github-readme-activity-graph"><img alt="Amirah Nasihah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirahnasihah&theme=xcode"/></a>
+<a href="https://github.com/amirahnasihah/github-readme-activity-graph"><img alt="Amirah Nasihah's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=amirahnasihah&theme=xcode"/></a>
 
 
 ### ☂ payung me
