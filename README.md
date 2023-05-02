@@ -29,7 +29,6 @@
 - 📝 blog: [amirahnasihah.hashnode](https://amirahnasihah.hashnode.dev/)
 - 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a>
 
-
 ### 💻 languages and tools
 
 <code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='html'></code>
