@@ -18,7 +18,7 @@
 
 </p><br>
 
-> mindlessly shops, watches weekly anime, and listens to classical music mixed with delicate melancholy songs
+> mindlessly shops, watches weekly anime, and listens to classical music mixed with delicate mellow songs
 
 <a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="230" alt="Amirah Nasihah's Dev Card" align="right"/></a>
 
@@ -27,7 +27,7 @@
 - 💼 front-end dev student | a hobbyist blogger
 - 👀 looking for open source to contribute my basic skills in tech-related
 - 📝 blog: [amirahnasihah.hashnode](https://amirahnasihah.hashnode.dev/)
-- 👩🏻‍💻 sourcecode: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a> // [CodeSandbox](https://codesandbox.io/u/amirahnasihah)
+- 👩🏻‍💻 goto code: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a> // [CodeSandbox](https://codesandbox.io/u/amirahnasihah)
 
 
 
