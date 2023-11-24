@@ -27,7 +27,7 @@
 - 💼 front-end dev student | a hobbyist blogger
 - 👀 looking for open source to contribute my basic skills in tech-related
 - 📝 blog: [amirahnasihah.hashnode](https://amirahnasihah.hashnode.dev/)
-- 👩🏻‍💻 goto code: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a> // [CodeSandbox](https://codesandbox.io/u/amirahnasihah)
+- 👩🏻‍💻 goto code: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a> // [CodeSandbox](https://codesandbox.io/u/amirahnasihah) // [Replit](https://replit.com/@amirahnasihah)
 
 
 
@@ -71,7 +71,7 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 
 
 <hr>
-Contributions are welcome! Thanks ❤
+Contributions to my repos are welcome! Thanks ❤
 
 <!---
 amirahnasihah/amirahnasihah is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.
