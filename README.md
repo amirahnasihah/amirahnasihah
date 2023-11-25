@@ -71,7 +71,7 @@ if you like what i do or just want to encourage me to learn more, maybe you can 
 
 
 <hr>
-Contributions to my repos are welcome! Thanks ❤
+Contributions to my repos are welcome, can DM me on X! Thanks ❤
 
 <!---
 amirahnasihah/amirahnasihah is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.
