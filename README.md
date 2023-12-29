@@ -24,7 +24,7 @@
 
 - 🙌 hey, my name is @amirahnasihah - from Malaysia
 - 🤔 a taciturn tech enthusiast with an accounting background
-- 💼 front-end dev student | a hobbyist blogger
+- 💼 front-end dev | a hobbyist blogger
 - 👀 looking for open source to contribute my basic skills in tech-related
 - 📝 blog: [amirahnasihah.hashnode](https://amirahnasihah.hashnode.dev/)
 - 👩🏻‍💻 goto code: <a href="https://codepen.io/amirahnasihah">CodePen<img src="https://www.svgrepo.com/show/353581/codepen.svg" width="22"/></a> // [CodeSandbox](https://codesandbox.io/u/amirahnasihah) // [Replit](https://replit.com/@amirahnasihah)
