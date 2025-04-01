@@ -22,8 +22,6 @@
 
 <a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="230" alt="Amirah Nasihah's Dev Card" align="right"/></a>
 
-SELAMAT HARI RAYA AIDILFITRI 2025
-
 - 🙌 hey, my name is @amirahnasihah - from Malaysia
 - 🤔 a taciturn tech enthusiast with an accounting background
 - 💼 front-end developer
