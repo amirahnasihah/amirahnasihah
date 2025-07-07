@@ -43,7 +43,14 @@
   <code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='HTML5'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='CSS3'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='JavaScript'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt='TypeScript'></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='React'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt='Next.js'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/354528/vue.svg" alt='Vue.js'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg" alt='Nuxt.js'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='Tailwind CSS'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/341882/greensock.svg" alt='GSAP'></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt='Postman'></code>
   <code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='VS Code'></code>
   <code><img height="25" src="https://img.icons8.com/fluency/2x/anaconda--v2.png" alt='Anaconda'></code>
   <code><img height="25" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt='Colab'></code>
