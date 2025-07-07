@@ -15,7 +15,7 @@
 </p>
 
 - 🙌 Front-end Developer from Malaysia
-- 🤔 Taciturn tech enthusiast with an accounting background
+- 🤔 From accounting to developing
 - 💼 Passionate about web development and open source
 - 👀 Always looking for opportunities to contribute and learn
 - 📝 Blog: [amirahnasihah.hashnode.dev](https://amirahnasihah.hashnode.dev/)
