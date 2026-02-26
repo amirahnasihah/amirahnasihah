@@ -41,47 +41,50 @@
 
 <p align="left">
   <!-- Core Web -->
-  <code><img height="25" src="https://www.svgrepo.com/show/349402/html5.svg" alt='HTML5'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/349330/css3.svg" alt='CSS3'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/349419/javascript.svg" alt='JavaScript'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt='TypeScript'></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/html5" alt="HTML5"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/css" alt="CSS3"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/typescript" alt="TypeScript"></code>
 
   <!-- Frontend Frameworks -->
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt='React'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt='Next.js'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/354528/vue.svg" alt='Vue.js'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg" alt='Nuxt.js'></code>
-  <code><img height="25" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt='Expo'></code>
-  <code><img height="25" src="https://reactnative.dev/img/header_logo.svg" alt='React Native'></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/react" alt="React"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/nuxt" alt="Nuxt.js"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/expo/white" alt="Expo"></code>
+ </code>
 
   <!-- Styling & UI -->
-  <code><img height="25" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt='Tailwind CSS'></code>
-  <code><img height="25" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt='Shadcn UI'></code>
-  <code><img height="25" src="https://cdn.simpleicons.org/gsap/white" alt="GSAP"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/shadcnui/white" alt="Shadcn UI"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/greensock" alt="GSAP"></code>
 
   <!-- State & Data -->
   <code><img height="25" src="https://tanstack.com/favicon.ico" alt='React Query'></code>
-  <code><img height="25" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt='React Hook Form'></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/reacthookform" alt="React Hook Form"></code>
 
   <!-- Backend & Database -->
-  <code><img height="25" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt='Postman'></code>
-  <code><img height="25" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt='Supabase'></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt='PostgreSQL'></code>
-  <code><img height="25" src="https://avatars.githubusercontent.com/u/83723399?s=200&v=4" alt='Drizzle ORM'></code>
-  <code><img height="25" src="https://jwt.io/img/pic_logo.svg" alt='JWT'></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/postman" alt="Postman"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/supabase" alt="Supabase"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/jsonwebtokens/white" alt="JWT"></code>
 
-  <!-- AI & Tooling -->
+  <!-- AI & Dev Tooling -->
+  <code><img height="25" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/anthropic/white" alt="Claude (Anthropic)"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/cursor/white" alt="Cursor IDE"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/warp" alt="Warp Terminal"></code>
   <code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt='VS Code'></code>
-  <code><img height="25" src="https://img.icons8.com/fluency/2x/anaconda--v2.png" alt='Anaconda'></code>
-  <code><img height="25" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt='Colab'></code>
-  <code><img height="25" src="https://img.icons8.com/color/48/ffffff/notion--v1.png" alt='Notion'></code>
-<code><img height="25" src="https://cdn.simpleicons.org/anthropic/white" alt="Claude"></code>
-<code><img height="25" src="https://cdn.simpleicons.org/cursor/white" alt="Cursor"></code>
-<code><img height="25" src="https://cdn.simpleicons.org/warp/white" alt="Warp"></code>
-<code>
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI">
-</code>
 </p>
+
+  <!-- DevOps / Hosting / CMS -->
+  <code><img height="25" src="https://cdn.simpleicons.org/hetzner/white" alt="Hetzner"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/ngrok/ffffff" alt="ngrok"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/sanity/white" alt="Sanity"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/githubactions/white" alt="GitHub Actions"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/xcode" alt="Xcode"></code>
 
 ## 📊 GitHub Stats
 
