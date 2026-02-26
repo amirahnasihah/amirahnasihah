@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/amirahnasihah/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirahnasihah&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.demolab.com/?user=amirahnasihah&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/amirahnasihah/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amirahnasihah&theme=merko" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirahnasihah&theme=merko" alt="Activity Graph" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@ If you find my work valuable, you can:
 ## 📈 Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amirahnasihah.amirahnasihah&left_color=grey&right_color=yellow" alt="Visitor Count" />
 </p>
 
 ## 📝 Latest Blog Posts
