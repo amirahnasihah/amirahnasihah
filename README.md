@@ -14,9 +14,9 @@
   <a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="230" alt="Amirah Nasihah's Dev Card" align="right"/></a>
 </p>
 
-- 🙌 Front-end Developer from Malaysia
+- 🙌 Software Engineer from Malaysia
 - 🤔 From accounting to developing
-- 💼 Passionate about web development and open source
+- 💼 Passionate about technology development and open source
 - 👀 Always looking for opportunities to contribute and learn
 - 📝 Blog: [amirahnasihah.hashnode.dev](https://amirahnasihah.hashnode.dev/)
 - 👩🏻‍💻 Code Platforms: 
