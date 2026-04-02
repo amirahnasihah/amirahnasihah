@@ -10,10 +10,6 @@
 
 ## 🌟 About Me
 
-<p align="left">
-  <a href="https://app.daily.dev/amirahnasihah"><img src="https://github.com/amirahnasihah/amirahnasihah/blob/main/devcard.svg" width="230" alt="Amirah Nasihah's Dev Card" align="right"/></a>
-</p>
-
 - 🙌 Software Engineer from Malaysia
 - 🤔 From accounting to developing
 - 💼 Passionate about technology development and open source
