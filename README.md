@@ -29,6 +29,7 @@
   <a href="https://amirahnasihah.my"><img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="22px"/></a>
   <a href="https://amirahnasihah.hashnode.dev/"><img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="Hashnode" width="22px"/></a>
   <a href="https://twitter.com/amrhnshh"><img src="https://cdn.simpleicons.org/x/white" alt="X" width="20px"/></a>
+  <a href="https://www.threads.net/@amirahnazili"><img src="https://cdn.simpleicons.org/threads/white" alt="Threads" width="22px"/></a>
   <a href="https://open.spotify.com/user/ov2acbzxh1jl5wx6wwhgro6jn"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_spotify-256.png" alt="Spotify" width="22px"/></a>
   <a href="https://www.youtube.com/channel/UCcEK626P9dhuI1_9dYp063g"><img src="https://cdn3.iconfinder.com/data/icons/3d-social-media-pack/256/Youtube.png" alt="YouTube" width="22px"/></a>
 </p>
