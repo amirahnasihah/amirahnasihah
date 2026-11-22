@@ -68,7 +68,7 @@
   <code><img height="25" src="https://cdn.simpleicons.org/jsonwebtokens/white" alt="JWT"></code>
 
   <!-- AI & Dev Tooling -->
-  <code><img height="25" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" alt="OpenAI"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/anthropic/white" alt="Claude (Anthropic)"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/cursor/white" alt="Cursor IDE"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/warp" alt="Warp Terminal"></code>
@@ -76,6 +76,7 @@
 </p>
 
   <!-- DevOps / Hosting / CMS -->
+  <code><img height="25" src="https://cdn.simpleicons.org/docker" alt="Hetzner"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/hetzner/white" alt="Hetzner"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/ngrok/ffffff" alt="ngrok"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare"></code>
