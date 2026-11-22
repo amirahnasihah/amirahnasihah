@@ -76,7 +76,10 @@
 </p>
 
   <!-- DevOps / Hosting / CMS -->
-  <code><img height="25" src="https://cdn.simpleicons.org/docker" alt="Hetzner"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/docker" alt="Docker"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/caddy" alt="Caddy"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/grafana" alt="Grafana"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/hetzner/white" alt="Hetzner"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/ngrok/ffffff" alt="ngrok"></code>
   <code><img height="25" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare"></code>
